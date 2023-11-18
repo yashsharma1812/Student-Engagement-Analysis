@@ -1,4 +1,4 @@
-# Student-Engagement-Analysis(SQL Project)
+# Student-Engagement-Analysis
 
 ## Overview
 This project focuses on estimating the free-to-paid conversion rate among students who have engaged with video lecture on the platform. Three key metrics have been analyzed: free-to-paid conversion rate, average duration between registration date and first-time engagement, and average duration between first-time engagement and first-time purchase.
